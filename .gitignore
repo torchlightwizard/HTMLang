@@ -1,0 +1,7 @@
+__pycache__
+
+# keys
+.env
+
+# local environment
+.le
